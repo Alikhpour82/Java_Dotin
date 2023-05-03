@@ -1,9 +1,9 @@
-package Main;
+package Card;
 
 public class Card {
     String cardNumber;
     String cardOwner;
     String expireDate;
-    short cvv2;
+    int cvv2;
 
 }
